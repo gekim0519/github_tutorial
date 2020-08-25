@@ -4,3 +4,10 @@ Foods that Sara likes
 - oatly
 - coffee
 - kombucha
+
+Foods that Diane likes
+- chips
+- avocado
+- pho
+- dumplings
+- seltzer
